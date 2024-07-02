@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-public class AudioManager : MonoBehaviour
+public class AudioManager : MonoBehaviour// selamın aleyküm
 {
     public AudioSource audioSource;
     public List<AudioClip> audioClips;
